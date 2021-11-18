@@ -1,4 +1,4 @@
 ||cdn.cookielaw.org^
 ||sourcepoint.theguardian.com^
 ||consent.cookiebot.com^
-
+||static.wikia.nocookie.net^$script
