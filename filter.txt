@@ -1,1 +1,2 @@
 ||cdn.cookielaw.org^
+||sourcepoint.theguardian.com^
