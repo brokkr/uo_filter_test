@@ -4,3 +4,4 @@
 ||static.wikia.nocookie.net^$script
 www.polygon.com##.m-privacy-consent
 stackoverflow.com##.js-consent-banner
+stackexchange.com##.js-consent-banner
