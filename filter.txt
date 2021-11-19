@@ -3,4 +3,4 @@
 ||consent.cookiebot.com^
 ||static.wikia.nocookie.net^$script
 www.polygon.com##.m-privacy-consent
-||stackoverflow.com^$inline-script
+stackoverflow.com##.js-consent-banner
